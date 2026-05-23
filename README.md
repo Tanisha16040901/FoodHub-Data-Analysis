@@ -28,8 +28,3 @@ The dataset encapsulates full transactional data points for each order:
 1. **Demand and Visibility Mapping:** High-demand cuisines and top-performing cluster vendors (e.g., Shake Shack) should be prioritized via premium featured listings or dynamic advertising during peak operational hours to maximize marketplace transaction volume.
 2. **Systemic Feedback Enhancements:** To address data gaps caused by a high volume of unsubmitted ("Not given") customer feedback, the platform should introduce user engagement mechanics (such as a point-accumulation or gamification reward loop) to stabilize data ingestion for recommendation engines.
 3. **Logistical Strategy:** Correlate total transit metrics (`food_preparation_time` + `delivery_time`) against regional customer retention levels to identify operational choke points and optimize delivery-partner driver routing.
-
-## How to Run the Notebook
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/Tanisha16040901/Projects-1.0](https://github.com/Tanisha16040901/Projects-1.0)
